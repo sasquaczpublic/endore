@@ -1,0 +1,14 @@
+<?php
+ob_start();
+session_start();
+define('title','<-!PAGENAME!->');
+include_once 'system/config.php';
+include_once 'templates/header.php';
+/*opcje
+live($user['zyw']);
+login();
+localization($user['lokacja'],lokacja)
+*/
+
+include_once 'templates/footer.php';
+?>

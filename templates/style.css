@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+body{ font-family: verdana,tahoma;font-size: 11px;color: #fff;background-color: #000;}	
+td { font-family: verdana,tahoma;font-size: 11px;color: #fff}
+
+a:link,a:visited,a:active {color: #fff;text-decoration: none;}
+a:hover {color: #9E3F09;text-decoration: underline;}
+
+
+.top {background: url(images/top.png); width:900px;height:300px}
+.m {background: url(images/tlo.jpg); width:200px;height:30px;text-align:center;font-weight:bold;color:#fff}
+td {
+	border-collapse: collapse;
+	}
+.m2 {background: url(images/tlo.jpg); width:200px;height:30px;text-align:center;font-weight:bold;color:#fff;text-transform:uppercase;
+font-size:larger;}
+.t {text-align:center;border:1px solid #D87136;padding:10px;font-size:11px;letter-spacing:1px}
+.brd {border:1px solid #8C8C8C}
+
+.linki {padding:5px;letter-spacing:1px;width:180px;}
+.newsy {
+padding:10px;
+text-align:justify;
+}
+
+.stopka {border:1px solid #8C8C8C;padding:5px;font-size:11px;letter-spacing:1px;}
+img {border: 0px;}   
+
+.bar_a{
+width: auto;
+border: 1px solid #ffffff;
+background-color: #777777;
+position: relative;
+height:20px;
+}
+
+.bar_b{
+height:20px;
+
+margin: 0px;
+background-color:#0066CC;
+}
+
+.bar_c{
+height:20px;
+
+margin: 0px;
+background-color:#006600;
+}
+
+.bar_text{
+	 position: absolute;
+    top:0; left:0;
+
+    padding-top: 4px;
+                
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+.stats{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

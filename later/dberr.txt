@@ -1,0 +1,4 @@
+
+ <Mysql Error> At line 40 in file C:\PHP\tinyrpg\config.php Query:  date: 1299616053
+ <Mysql Error> At line 40 in file C:\PHP\tinyrpg\config.php Query:  date: 1299616073
+ <Mysql Error> At line 40 in file C:\PHP\tinyrpg\config.php Query:  date: 1299616106
